@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529761560120",
+    "project_id": "malumotlarim-43452",
+    "storage_bucket": "malumotlarim-43452.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529761560120:android:5363efed614cfb55af28cd",
+        "android_client_info": {
+          "package_name": "uz.uzmind.malumotlarim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3V5SUfsrg_azttozjxDSKoXhgf9aEuEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
